@@ -1,0 +1,30 @@
+<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+    <rect width="960" height="540" fill="#fff"></rect>
+    <g>
+        <g transform="translate(84 328)">
+            <path d="M0 -81.3L70.4 -40.7L70.4 40.7L0 81.3L-70.4 40.7L-70.4 -40.7Z" fill="none"
+                stroke="#4f46e5" stroke-width="2"></path>
+        </g>
+        <g transform="translate(295 496)">
+            <path d="M0 -32L27.7 -16L27.7 16L0 32L-27.7 16L-27.7 -16Z" fill="none" stroke="#4f46e5"
+                stroke-width="2"></path>
+        </g>
+        <g transform="translate(426 285)">
+            <path d="M0 -35L30.3 -17.5L30.3 17.5L0 35L-30.3 17.5L-30.3 -17.5Z" fill="none"
+                stroke="#4f46e5" stroke-width="2"></path>
+        </g>
+        <g transform="translate(258 296)">
+            <path d="M0 -29L25.1 -14.5L25.1 14.5L0 29L-25.1 14.5L-25.1 -14.5Z" fill="none"
+                stroke="#4f46e5" stroke-width="2"></path>
+        </g>
+        <g transform="translate(522 88)">
+            <path d="M0 -56L48.5 -28L48.5 28L0 56L-48.5 28L-48.5 -28Z" stroke="#4f46e5" fill="none"
+                stroke-width="2"></path>
+        </g>
+        <g transform="translate(802 528)">
+            <path d="M0 -33L28.6 -16.5L28.6 16.5L0 33L-28.6 16.5L-28.6 -16.5Z" stroke="#4f46e5"
+                fill="none" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
