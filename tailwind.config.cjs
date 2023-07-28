@@ -6,7 +6,7 @@ module.exports = {
     theme: {
         extend: {
             animation: {
-                "fade-in-out": "fade-in-out 4s ease-in-out infinite",
+                "fade-in-out": "fade-in-out 5s ease-in-out infinite",
             },
             backgroundImage: {
                 "hero-pattern": "url('/layered-waves-haikei.svg')",
@@ -22,9 +22,9 @@ module.exports = {
                 "heading-3": "rgb(var(--heading-3))",
             },
             screens: {
+                sm: "620px",
                 midmd: "880px",
             },
         },
     },
-    plugins: ["prettier-plugin-tailwindcss"],
 };
