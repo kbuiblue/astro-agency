@@ -6,7 +6,7 @@ module.exports = {
     theme: {
         extend: {
             animation: {
-                "fade-in-out": "fade-in-out 5s ease-in-out infinite",
+                "fade-in-out": "fade-in-out 5s ease-in infinite",
             },
             backgroundImage: {
                 "hero-pattern": "url('/layered-waves-haikei.svg')",
