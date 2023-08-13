@@ -7,6 +7,7 @@ module.exports = {
         extend: {
             animation: {
                 "fade-in-out": "fade-in-out 5s ease-in infinite",
+                "gradient": "animatedgradient 6s ease infinite",
             },
             backgroundImage: {
                 "hero-pattern": "url('/layered-waves-haikei.svg')",
